@@ -20,6 +20,17 @@ you'll see that providing 'password' grants you access into the account. The fla
 for this if the password was any more secure.
 
 
+# Flag1
+## Steps
+1. Once logged in as 'user', visit 'My Profile' tab
+2. Look at url of tab (i.e. https://XXXXXXXXXXXXXXXXXXX.ctf.hacker101.com/index.php?page=profile.php&id=c)  ('XXXXXXXXXXXXXXXXX' is arbitrary)
+3. Change 'index.php?page=profile.php&id=c' to 'index.php?page=profile.php&id=b' in url 
+ 
+## Thought Process
+My thought process behind this was to search around the 'user' profile to see if I could find another flag. Once I saw the url on the 'My Profile' tab, my first thought was to see if I could visit other pages and ids in the url. Upon seeing that I was getting valid pages to return, I knew that I could do a path traversal. I tried 'id=a' at first. No luck. Then I tried 'id=b'. BOOM! Flag
+
+
+
 
 
 
