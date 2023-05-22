@@ -11,8 +11,8 @@ Flags: 7
 # Flag0 
 ## Steps
 1. Visit https://XXXXXXXXXXXXXXXXX.ctf.hacker101.com/index.php ('XXXXXXXXXXXXXXXXX' is arbitrary)
-2. Search around website to familiarize 
-3. See 'user' profile. Attempt to sign in to 'user' with a weak password
+2. Make an account. Search around website to familiarize 
+3. Notice 'user' profile. Attempt to sign in to 'user' with a weak password
 
 ## Thought Process
 My thought process behind finding the first flag was to use random passwords to brute force into account. After trying 'user', 'pass', and 'password' as passwords 
