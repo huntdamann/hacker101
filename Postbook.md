@@ -31,6 +31,14 @@ My thought process behind this was to search around the 'user' profile to see if
 
 
 
+# Flag2 
+# Hints
+- You should definitely use "Inspect Element" on the form when creating a new post
+
+## Steps 
+1. Login as 'user' and navigate to the 'Write a new post' tab. Inspect the page
+2. After looking thoroughly through the page source, you should come across this line of code
+ > 
 
 
 
