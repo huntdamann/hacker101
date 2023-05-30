@@ -7,7 +7,7 @@ I will do by best to house all bug writeups for HackerOne CTFs here. Each writeu
 
 # Tasks 
 
-- [] Build automation script using Selenium Python
+- [*] Build automation script using Selenium Python
 
 # Links
 
